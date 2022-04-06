@@ -1,6 +1,7 @@
 # Custom PHP 8.1.4
 
 Base php8.1.4 (17 Mar 2022)
+Using a *THREAD SAFE* php & *x64*.
 
 * SQlite3.
 * Sqlsrv : a plugin for PDO to connect to an MSSQL Server Instance.
